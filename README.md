@@ -10,4 +10,5 @@ The following are the steps carried out in evaluating the performance of differe
  on the reduced dimension data
  6. Testing the models and obtaining accuracy, precision, recall and f-score
  7. Compare the results and find the model with best accuracy for Loan Eligibility Prediction
-The data set named "Loan Eligible Dataset" for this project is obtained from Kaggle. Thelink to access the dataset: https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?resource=download
+ 
+ The data set named "Loan Eligible Dataset" for this project is obtained from Kaggle. Thelink to access the dataset: https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?resource=download
